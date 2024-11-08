@@ -59,8 +59,34 @@ I used same formula to YTD and PYTD vs YTD slicers.
 Add Background to the Board.
 ![image](https://github.com/user-attachments/assets/8b430e9c-aff9-48bb-a4bd-294bcc62eb0c)
 
+I display worst 10 countries in terms of differences from PYTD to YTD.
 
-I create scatter plot and add zoom slider.
+![image](https://github.com/user-attachments/assets/8983eabf-3a45-47ed-a581-315434e2a3e0)
+
+![image](https://github.com/user-attachments/assets/8851287e-061c-4c75-b4c9-f479a48fa7db)
+
+Also,Added waterfall graph between PYTD vs YTD and Date,month,country,Product type,Product Name categories. I prefer many categories because i want to drill down.
+
+![image](https://github.com/user-attachments/assets/2ac042e4-4a9b-4301-ab15-c68192a8321c)
+
+![image](https://github.com/user-attachments/assets/5f75d1d9-2ab2-4411-96f8-fb86a3a6c3cb)
+
+![image](https://github.com/user-attachments/assets/366cefde-0872-4597-ab86-70c11d10e4b6)
+
+Also, i wanted to create Line and Stacked column. I wanted to compare YTD and PYTD values in terms of quarter and monh date.
+
+![image](https://github.com/user-attachments/assets/160f919c-793c-4762-a70e-a03d2e74e316)
+
+![image](https://github.com/user-attachments/assets/b2b45f96-9d42-48f0-b963-3cf0523ca441)
+
+![image](https://github.com/user-attachments/assets/89d7f378-83a1-4164-815e-792188a5ab97)
+
+
+I create scatter plot and add zoom slider to compare Gross Percentage and YTD.
+
+
+![image](https://github.com/user-attachments/assets/0df72a78-90d9-46a4-aadd-7ec9023316b2)
+
 
 ![image](https://github.com/user-attachments/assets/c8ab6e40-9a0c-466b-8025-c15f10ac7717)
 
@@ -71,8 +97,21 @@ And define median line.
 Create measure for highlight.
 ![image](https://github.com/user-attachments/assets/b6f04681-938e-4414-96a9-b34ce37d144a)
 
+In the last step, i edit card with conditional formatting.In this format, i change the color of text and fill.
+
+![image](https://github.com/user-attachments/assets/f3840b21-de46-43ec-aa6b-33ae15b84eb3)
+
+
+![image](https://github.com/user-attachments/assets/8a221a49-c46e-4015-9eb1-032240df35b0).
+
+
 I adopt to the graph. 
+
 ![image](https://github.com/user-attachments/assets/4fbd827c-04a9-46f7-a88f-5ed2a8a3ad63)
+
+
+In the end, i change layout.
+![image](https://github.com/user-attachments/assets/aa4ff72e-5e2d-4295-b248-b018cdb2fad6)
 
 
 
