@@ -60,5 +60,20 @@ Add Background to the Board.
 ![image](https://github.com/user-attachments/assets/8b430e9c-aff9-48bb-a4bd-294bcc62eb0c)
 
 
+I create scatter plot and add zoom slider.
+
+![image](https://github.com/user-attachments/assets/c8ab6e40-9a0c-466b-8025-c15f10ac7717)
+
+And define median line.
+
+![image](https://github.com/user-attachments/assets/9a913442-ddf8-4be6-a1cf-92efb74baaf1)
+
+Create measure for highlight.
+![image](https://github.com/user-attachments/assets/b6f04681-938e-4414-96a9-b34ce37d144a)
+
+I adopt to the graph. 
+![image](https://github.com/user-attachments/assets/4fbd827c-04a9-46f7-a88f-5ed2a8a3ad63)
+
+
 
 
